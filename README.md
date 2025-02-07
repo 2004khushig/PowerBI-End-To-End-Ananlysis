@@ -22,11 +22,11 @@ This repository contains a comprehensive end-to-end analysis using Power BI. The
 1. **Clone the repository**:
    ```sh
    git clone https://github.com/2004khushig/PowerBI-End-To-End-Ananlysis.git
-Navigate to the project directory:
-sh
-cd PowerBI-End-To-End-Ananlysis
-Open the Power BI file:
-Launch your_analysis.pbix in Power BI Desktop.
+2. Navigate to the project directory
+   ```sh
+   cd PowerBI-End-To-End-Ananlysis
+3. Open the Power BI file:
+     Launch your_analysis.pbix in Power BI Desktop.
 Usage
 Load the Dataset: Ensure your datasets are available in the specified directory.
 Explore the Dashboards: Interact with the visualizations to gain insights.
@@ -43,5 +43,3 @@ This project is licensed under the MIT License.
 
 Contact
 For any queries or suggestions, feel free to reach out.
-
-Feel free to customize this template further based on your specific project details and requirements.
